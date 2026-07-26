@@ -1,0 +1,8 @@
+{
+  "name": "Remix: NEXUS Core",
+  "description": "Premium Jarvis-inspired dynamic neuronal interface powered by advanced geometric projections.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
